@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&family=Vidaloka&display=swap');
+
+body{
+    font-family: 'vidaloka', sans-serif;
+    
+
+}
+section p{
+    font-size: 30px;
+    background-color: #8bbbc9;
+    text-align: center;
+    margin-top: 40px;
+}
+.dropdown-toggle{
+  margin-left: 90%;
+  margin-top: -60px;
+}
+.dropdown-menu{
+    margin-left: 90%;
+    margin-top: -20px;
+}
+
+
+
+
+footer
+{
+    background: #8bbbc9;
+}
+
+footer .glyphicon:hover
+{
+    font-size:  37px;
+}
+footer h5
+{
+    color: #fff;
+    font-weight: normal;
+}
+.text-center h5{
+   
+    font-size: 30px;
+}
+.pied{
+    display: flex;
+    justify-content: space-around;
+}
